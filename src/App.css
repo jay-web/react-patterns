@@ -1,0 +1,21 @@
+/* .main { */
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* background-color: lightblue; */
+   /* width: 70%;
+    height: 70%;
+    text-align: center; */
+/* } */
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    width: 90%;
+    height: 60vh;
+    margin-top: 10rem;
+    
+}
